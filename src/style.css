@@ -1,0 +1,168 @@
+body{
+    background-image: url(backpic.jpg);
+}
+.name{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(192, 204, 102);
+    padding-left: 5em;
+}
+.about{
+    background-color: rgb(125, 137, 34);
+    color: white;
+    padding-left: 2em;
+    width: 20%;
+    font-family:Georgia, Times, 'Times New Roman', serif;
+}
+.headingp{
+    background-color: wheat;
+}
+.address{
+    background-color: seagreen;
+    color: white;
+    width: 25%;
+    padding-left: 1.2em ;
+font-family: Georgia, Times, 'Times New Roman', serif;
+
+}
+.paddress{
+    background-color: wheat;
+    font-family: 'Segoe UI', Tahoma,Verdana, sans-serif;
+}
+.connectp{
+ background-color: rgb(125, 137, 34);
+ color: white;
+ font-family:'Segoe UI', Tahoma,Verdana, sans-serif;
+ width: 32%;
+ padding-left: 0.5em;
+}
+.doitflex{
+    display: flex;
+    gap: 30px;
+    padding-left: 4em;
+}
+.education{
+    background-color: rgb(125, 137, 34);
+    color: white;
+    width: 43%;
+    padding-left: 1em;
+}
+.matric{
+    background-color: seagreen;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    width: 42%;
+
+}
+.matricp{
+    background-color: wheat;
+    color: black;
+    font-family: 'Segoe UI', Tahoma,Verdana, sans-serif;
+    width: 70%;
+}
+.inter{
+    background-color: seagreen;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    width: 38%;
+}
+.interp{
+    background-color: wheat;
+    color: black;
+    font-family: 'Segoe UI', Tahoma,Verdana, sans-serif;
+    width: 60%;
+}
+.webapp{
+    background-color: seagreen;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    width: 47%;
+}
+.webappp{
+    background-color: wheat;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    width: 60%;
+}
+.skills{
+    background-color: rgb(125, 137, 34);
+    color: white;
+    width: 43%;
+    padding-left: 1em;
+}
+.exp{
+    background-color: rgb(125, 137, 34);
+    color: white;
+    width: 46%;
+    padding-left: 1em;
+}
+.lan{
+    background-color: rgb(125, 137, 34);
+    color: white;
+    width: 46%;
+    padding-left: 1em;
+}
+.end{
+    background-color: black;
+    color:rgb(125, 137, 34) ;
+}
+.zaban{
+    display: flex;
+    gap: 30px;
+    padding-left: 1.6em;
+    background-color: rgb(56, 61, 44);
+    min-width: 40%;
+    max-width: 60%;
+}
+
+.html{
+    background-color: rgb(56, 61, 44);
+    padding-left: 1.5em;
+    width: 20%;
+}
+.CSS{
+    background-color: rgb(56, 61, 44);
+    padding-left:1.5em ;
+    width: 20%;
+}
+.JAVA{
+    background-color: rgb(56, 61, 44);
+    padding-left:1.2em ;
+    width: 30%;
+}
+.REACT{
+    background-color: rgb(56, 61, 44);
+    padding-left:1.3em ;
+    width: 22%;
+}
+.JWT{
+    background-color: rgb(56, 61, 44);
+    padding-left:1.5em ;
+    width: 19%;
+}
+.FIREBASE{
+    background-color: rgb(56, 61, 44);
+    padding-left:1.5em ;
+    width: 29%;
+}
+.PURCHASING{
+    background-color: rgb(56, 61, 44);
+    padding-left:1.5em ;
+    width: 35%;
+}
+.DEALING{
+    background-color: rgb(56, 61, 44);
+    padding-left:1.5em ;
+    width: 27%;
+}
+.dataentry{
+    background-color: wheat;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    width: 65%;
+}
+.purchase{
+    background-color: wheat;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    width: 70%;
+}
